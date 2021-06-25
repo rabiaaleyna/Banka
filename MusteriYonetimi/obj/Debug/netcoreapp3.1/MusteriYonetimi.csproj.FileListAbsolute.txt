@@ -1,0 +1,13 @@
+C:\Users\Demir\source\repos\MusteriYonetimi\bin\Debug\netcoreapp3.1\MusteriYonetimi.exe
+C:\Users\Demir\source\repos\MusteriYonetimi\bin\Debug\netcoreapp3.1\MusteriYonetimi.deps.json
+C:\Users\Demir\source\repos\MusteriYonetimi\bin\Debug\netcoreapp3.1\MusteriYonetimi.runtimeconfig.json
+C:\Users\Demir\source\repos\MusteriYonetimi\bin\Debug\netcoreapp3.1\MusteriYonetimi.runtimeconfig.dev.json
+C:\Users\Demir\source\repos\MusteriYonetimi\bin\Debug\netcoreapp3.1\MusteriYonetimi.dll
+C:\Users\Demir\source\repos\MusteriYonetimi\bin\Debug\netcoreapp3.1\MusteriYonetimi.pdb
+C:\Users\Demir\source\repos\MusteriYonetimi\obj\Debug\netcoreapp3.1\MusteriYonetimi.csprojAssemblyReference.cache
+C:\Users\Demir\source\repos\MusteriYonetimi\obj\Debug\netcoreapp3.1\MusteriYonetimi.AssemblyInfoInputs.cache
+C:\Users\Demir\source\repos\MusteriYonetimi\obj\Debug\netcoreapp3.1\MusteriYonetimi.AssemblyInfo.cs
+C:\Users\Demir\source\repos\MusteriYonetimi\obj\Debug\netcoreapp3.1\MusteriYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Demir\source\repos\MusteriYonetimi\obj\Debug\netcoreapp3.1\MusteriYonetimi.dll
+C:\Users\Demir\source\repos\MusteriYonetimi\obj\Debug\netcoreapp3.1\MusteriYonetimi.pdb
+C:\Users\Demir\source\repos\MusteriYonetimi\obj\Debug\netcoreapp3.1\MusteriYonetimi.genruntimeconfig.cache
